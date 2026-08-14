@@ -15,9 +15,7 @@
 </div>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,html,css,c#,js"/>
-<img src="https://skillicons.dev/icons?i=node.js"/>
-<img src="https://skillicons.dev/icons?i=ts"/>
+<img src="https://skillicons.dev/icons?i=python,html,css,c#,js,ts"/>
 <img src="https://skillicons.dev/icons?i=git,github,bash,vscode"/>
 </div>
 
