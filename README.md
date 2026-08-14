@@ -1,6 +1,6 @@
 <div align="center">
-<img src="https://github-readme-stats-fast.vercel.app/api?username=TropicYT&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru"/>
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=TropicYT&theme=bear&layout=compact&hide_border=true&locale=ru"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=BorisonchikYT&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=BorisonchikYT&theme=bear&layout=compact&hide_border=true&locale=ru"/>
 </div>
 
 <div align="center">
