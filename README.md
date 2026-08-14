@@ -4,8 +4,8 @@
 </div>
 
 <div align="center">
-experienced backend developer  
-automation • bots • infrastructure • reverse engineering
+Являюсь разработчиком в моих полномочиях:
+Создание веб сайтов • Создание ботов • Создание дискорд серверов
 </div>
 
 ---
@@ -15,7 +15,7 @@ automation • bots • infrastructure • reverse engineering
 </div>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,lua,js,ts,nodejs,linux,docker,nginx,git,github,redis,postgres,bash,vscode"/>
+<img src="https://skillicons.dev/icons?i=pythonjs,ts,nodejsgit,github,bash,vscode"/>
 </div>
 
 ---
