@@ -11,7 +11,7 @@
 ---
 
 <div align="center">
-🛠️ Tech Stack
+В ЧЕМ ШАРЮ
 </div>
 
 <div align="center">
@@ -27,7 +27,7 @@
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=TropicYT&theme=dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=BorisonchikYT&theme=dark&hide_border=true"/>
 </div>
 
 ---
