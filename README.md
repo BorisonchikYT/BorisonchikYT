@@ -19,30 +19,3 @@
 <img src="https://skillicons.dev/icons?i=ts"/>
 <img src="https://skillicons.dev/icons?i=git,github,bash,vscode"/>
 </div>
-
----
-
-<div align="center">
-🔥 Activity
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=BorisonchikYT&theme=dark&hide_border=true"/>
-</div>
-
----
-
-<div align="center">
-🐍 Contributions
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/TropicYT/TropicYT/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
-
-<div align="center">
-🌐 Links  
-<a href="https://tropic.website">Website</a> • <a href="https://tropic.website/skills">Skills</a>
-</div>
